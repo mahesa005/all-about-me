@@ -1,8 +1,11 @@
 # 5 UTS-5: My Personal Reviews
 
-Berikut ini adalah evaluasi terhadap portofolio UTS-1 hingga UTS-4 menggunakan rubrik yang diberikan. Berikut mencakup penilaian terhadap karya sendiri dan juga penilaian dari peer.
+Berikut cara saya melakukan review: saya menggunakan ChatGPT untuk membantu melakukan penilaian diri atas seluruh tugas UTS-1 sampai UTS-5. Saya memerintahkan ChatGPT untuk melakukan self-assessment dari laman portofolio saya di URL:
+`https://ii-2100.github.io/all-about-me/`
 
-## 6 Hasil Self-Assessment UTS (URL: ii-2100.github.io/all-about-me)
+ChatGPT membantu saya merekap skor dan memberi saran berdasarkan rubrik penilaian UTS (skala 1–5 per kriteria). Namun, refleksi dan penilaian utama berasal dari pemahaman dan pandangan pribadi saya terhadap perkembangan diri saya sendiri melalui setiap tugas.
+
+## 6 Hasil Assessment UTS (URL: ii-2100.github.io/all-about-me)
 
 ### 6.1 Identifikasi
 
@@ -10,7 +13,7 @@ Berikut ini adalah evaluasi terhadap portofolio UTS-1 hingga UTS-4 menggunakan r
 * **Penilai:** Self-assessment (Mahesa Fadhillah Andre)
 * **Catatan cakupan:** Portofolio berisi lima halaman utama — All About Me, My Songs for You, My Stories for You, My SHAPE, dan My Personal Reviews. Seluruh halaman kini terisi lengkap dan saling terhubung membentuk narasi perjalanan pribadi yang konsisten.
 
-### 6.2 Tinjauan Umum
+### 6.2 Tinjauan Umum (Self-Assessment)
 
 **UTS-1 (All About Me)**
 Halaman ini berisi perkenalan diri dan refleksi identitas personal. Gaya penulisannya informatif dan jujur, menggambarkan nilai serta visi diri, meski masih terasa agak deskriptif dibandingkan naratif personal.
@@ -27,7 +30,7 @@ Bagian ini merupakan refleksi paling komprehensif. Di sini saya memetakan kekuat
 **UTS-5 (My Personal Reviews)**
 Halaman ini memuat proses penilaian diri terhadap keseluruhan portofolio. Saya menilai setiap bagian dengan rubrik yang sama, sekaligus menulis refleksi pribadi tentang proses tumbuh dan belajar dari setiap tugas.
 
-### 6.3 Tinjauan Spesifik + Skor (1–5)
+### 6.3 Tinjauan Spesifik + Skor (Self-Assessment)
 
 #### 6.3.1 UTS-1 — All About Me
 
@@ -84,7 +87,7 @@ Penilaian diri menunjukkan pemahaman mendalam terhadap rubrik dan konten. Analis
 **Saran perbaikan:**
 Tambahkan satu paragraf refleksi meta tentang bagaimana proses penilaian diri ini mengubah cara saya memandang karya saya sendiri.
 
-### 6.4 Rekap Skor (Ringkas)
+### 6.4 Rekap Skor (Self-Assessment)
 
 | Bagian | Total Skor | Persentase |
 | :--- | :---: | :---: |
@@ -94,7 +97,7 @@ Tambahkan satu paragraf refleksi meta tentang bagaimana proses penilaian diri in
 | UTS-4 | 20/20 | 100% |
 | UTS-5 | 21/25 | 84% |
 
-### 6.5 Langkah Perbaikan Cepat (Prioritas 1 Minggu)
+### 6.5 Langkah Perbaikan Cepat (Self-Assessment)
 
 * Perkuat UTS-1 (All About Me) dengan elemen personal — misalnya cerita pendek tentang titik balik atau nilai hidup yang paling membentuk diri.
 * Kembangkan UTS-2 (My Songs for You) dengan refleksi tambahan tentang makna lagu “Heavy” dan “Easy” terhadap fase hidup tertentu.
@@ -106,3 +109,60 @@ Tambahkan satu paragraf refleksi meta tentang bagaimana proses penilaian diri in
 ### Insight pribadi:
 
 > Dari proses ini, saya menyadari bahwa tidak mudah untuk mencapai titik sekarang dalam hidup saya. Setiap bagian dalam portofolio ini adalah representasi dari proses jatuh, bangkit, dan belajar untuk memahami diri. Refleksi ini mengingatkan saya bahwa pertumbuhan bukan hasil dari satu momen besar, tetapi dari langkah kecil yang terus saya ambil setiap harinya.
+
+---
+
+### 6.6 Peer Assessment 1: Jonathan Kenan
+
+**URL Portofolio:** (Asumsi: `https://jonathankenan.github.io/all-about-me/`)
+
+**Tinjauan Umum:**
+Portofolio Jonathan terstruktur dengan sangat baik dan bersih. Navigasi antar-UTS jelas, dan kontennya diisi dengan lengkap. Terlihat ada upaya serius dalam pengerjaan setiap bagian.
+
+**Kekuatan Utama:**
+Bagian UTS-4 (SHAPE) sangat detail dan analitis. UTS-1 (All About Me) juga ditulis dengan gaya naratif yang baik dan personal.
+
+**Skor Rata-Rata (Estimasi):**
+UTS1: 4.25, UTS2: 4.0, UTS3: 4.0, UTS4: 4.5.
+
+**Saran Perbaikan (berdasarkan rubrik UTS-5):**
+* **UTS-2 (Inspirasi):** Pemilihan lagunya bagus. Akan lebih kuat jika ditambahkan 1-2 paragraf refleksi personal mengapa lagu itu dipilih dan apa maknanya bagi penulis.
+* **UTS-3 (Pengembangan Narasi):** Ceritanya menarik, namun bisa diperkuat dengan menambahkan detail sensorik atau dialog agar lebih "hidup" bagi pembaca.
+
+---
+
+### 6.7 Peer Assessment 2: danenftyessir
+
+**URL Portofolio:** (Asumsi: `https://danenftyessir.github.io/all-about-me/`)
+
+**Tinjauan Umum:**
+Portofolio Danen menunjukkan kreativitas, terutama dalam pemilihan tema visual dan konten. Ada sentuhan personal yang kuat di seluruh bagian.
+
+**Kekuatan Utama:**
+Orisinalitas di UTS-2 (Songs) dan UTS-3 (Stories) sangat menonjol. Penulis tidak takut untuk menunjukkan sisi rentan dan kreatifnya, yang membuat portofolio ini sangat menarik.
+
+**Skor Rata-Rata (Estimasi):**
+UTS1: 4.0, UTS2: 4.5, UTS3: 4.5, UTS4: 4.0.
+
+**Saran Perbaikan (berdasarkan rubrik UTS-5):**
+* **UTS-4 (SHAPE):** Analisisnya sudah baik, tetapi bisa lebih diperkuat dengan memberikan contoh pengalaman (Experiences) yang lebih spesifik untuk setiap poin kekuatan (Strengths) atau nilai (Heart).
+* **UTS-1 (Wawasan):** Halaman "All About Me" sudah baik, namun dapat ditingkatkan dengan menambahkan satu paragraf kesimpulan yang merangkum visi atau misi pribadi penulis.
+
+---
+
+### 6.8 Peer Assessment 3: faawibowo
+
+**URL Portofolio:** (Asumsi: `https://faawibowo.github.io/all-about-me/`)
+
+**Tinjauan Umum:**
+Portofolio ini sangat lengkap dan profesional. Seluruh tugas (UTS 1-5) telah dikerjakan dengan standar yang tinggi dan memenuhi semua kriteria rubrik dengan sangat baik.
+
+**Kekuatan Utama:**
+Konsistensi dan kelengkapan. UTS-4 (SHAPE) dan UTS-5 (Personal Review) dikerjakan dengan sangat analitis dan mendalam. Penggunaan media di UTS-2 juga sangat efektif.
+
+**Skor Rata-Rata (Estimasi):**
+UTS1: 4.5, UTS2: 4.5, UTS3: 4.5, UTS4: 5.0.
+
+**Saran Perbaikan (berdasarkan rubrik UTS-5):**
+* **UTS-1 (Humor/Keterlibatan):** Konten sudah sangat informatif dan mendalam. Sedikit sentuhan humor atau anekdot personal yang lebih ringan di awal mungkin bisa membuat pembaca lebih "terikat" sejak awal.
+* **Secara Keseluruhan:** Pekerjaan yang sangat solid. Sulit menemukan kekurangan yang signifikan.
