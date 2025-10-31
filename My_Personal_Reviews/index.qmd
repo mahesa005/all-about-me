@@ -1,9 +1,6 @@
 # 5 UTS-5: My Personal Reviews
 
-Berikut cara saya melakukan review: saya menggunakan ChatGPT untuk membantu melakukan penilaian diri atas seluruh tugas UTS-1 sampai UTS-5. Saya memerintahkan ChatGPT untuk melakukan self-assessment dari laman portofolio saya di URL:
-`https://ii-2100.github.io/all-about-me/`
-
-ChatGPT membantu saya merekap skor dan memberi saran berdasarkan rubrik penilaian UTS (skala 1–5 per kriteria). Namun, refleksi dan penilaian utama berasal dari pemahaman dan pandangan pribadi saya terhadap perkembangan diri saya sendiri melalui setiap tugas.
+Berikut ini adalah evaluasi terhadap portofolio UTS-1 hingga UTS-4 menggunakan rubrik yang diberikan. Berikut mencakup penilaian terhadap karya sendiri dan juga penilaian dari peer.
 
 ## 6 Hasil Assessment UTS (URL: ii-2100.github.io/all-about-me)
 
